@@ -1,2 +1,11 @@
-# Github-API-Dashboard
-A small Python script that connects to the GitHub API and fetches repo details like stars, forks, and last updated time. Built to practice API authentication and JSON handling.
+# GitHub API Dashboard
+
+A small script that fetches repository details (stars, forks, last update) using the GitHub REST API.  
+I built this to practice working with APIs and JSON responses.
+
+## How to run
+1. Clone repo
+2. Install requests: `pip install requests`
+3. Run: `python main.py`
+
+## Example output
