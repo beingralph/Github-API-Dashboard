@@ -9,3 +9,10 @@ I built this to practice working with APIs and JSON responses.
 3. Run: `python main.py`
 
 ## Example output
+
+![Github APi Dashoard Screenshot](screenshot.png)
+
+---
+
+👨‍💻 Author: **Raghav Yadav**  
+📌 GitHub: [beingralph](https://github.com/beingralph)
