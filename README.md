@@ -23,4 +23,3 @@ Still improving this — might extend it later to show contributors or issues.
 
 ---
 
-Still improving this — might extend it later to show contributors or issues.
