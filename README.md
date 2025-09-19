@@ -14,5 +14,13 @@ I built this to practice working with APIs and JSON responses.
 
 ---
 
+Still improving this — might extend it later to show contributors or issues.
+
+---
+
 👨‍💻 Author: **Raghav Yadav**  
 📌 GitHub: [beingralph](https://github.com/beingralph)
+
+---
+
+Still improving this — might extend it later to show contributors or issues.
